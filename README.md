@@ -1,2 +1,1 @@
-# Boas-Praticas-Java
-diferentes projetos que buscam trabalhar com a legibilidade de código
+Criado os domains Pet e Abrigo e trabalhando com a biblioteca cackson-databind que auxilia na serialização e deserialização de objetos fornecendo recursos para transformar um objeto Json em um objeto Java e vice-versa.
