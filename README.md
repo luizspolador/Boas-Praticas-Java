@@ -1,2 +1,1 @@
-# Boas-Praticas-Java
-diferentes projetos que buscam trabalhar com a legibilidade de código
+Projeto inicial. Todo o código está alocado em uma classe main.
